@@ -2,7 +2,7 @@
 title: streetAV
 author: Tim Overstreet
 description: > # Meta description of Homepage
-  We provide high quality audio, video, lighting, and production solutions for churches, schools, and commercial spaces.
+  We provide high quality audio, video, lighting, and production solutions for churches, schools, and commercial spaces. We also offer consulting services and event support.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -21,7 +21,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  High quality audio, video, and production solutions for
+  Creative audio, video, and production solutions for
 
 hero_img: posts/Homepage v2.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/Homepage v2.jpg
 
