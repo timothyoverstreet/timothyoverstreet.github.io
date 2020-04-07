@@ -9,5 +9,4 @@ Tim Overstreet, founder of streetAV, has been involved in audio and video produc
 StreetAV isn't just about designing amazing audio and visual rigs, its about connecting the faith community. Tim’s idea is to network with worship pastors across the nation to help churches meet their needs for having high quality audio and visual systems at a fraction of the cost of big sound companies by employing the guys and gals who are already working on the front lines.
 
 
-![Timothy Overstreet | Owner & Founder of streetAV](https://www.streetav.com/assets/img/posts/Tim%20Overstreet.png "Timothy Overstreet")
-
+![Tim Overstreet - Owner & Founder of streetAV](streetav.com/assets/img/posts/Tim%20Overstreet.png "Tim Overstreet")
