@@ -21,7 +21,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  High quality audio, video, and production solutions for
+  High quality audio, video, and production solutions for\n
   Churches  |  Schools  | Commercial Venues
 
 hero_img: posts/Homepage v2.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/Homepage v2.jpg
