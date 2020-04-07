@@ -23,23 +23,11 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  High quality audio, video, and production solutions for churches on a budget
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: your-email@domain.com # email for form submission
-
-# Social settings
-500px_url:
-facebook_url: https://www.facebook.com/timothy.overstreet.56
-github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url: https://www.instagram.com/timoverstreet/
-linkedin_url: https://www.linkedin.com/in/tim-overstreet-883647186
-pinterest_url:
-slack_url:
-twitter_url:
+email: timothydoverstreet@gmail.com # email for form submission
 
 facebook_username: timothy.overstreet.56 # replace with your_twitter_username or comment to remove link from footer
 instagram_username: timoverstreet # replace with your_github_username or comment to remove link from footer
