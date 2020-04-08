@@ -23,7 +23,7 @@ navigation: # Navigation links
 tagline: >
   Audio, video, and production solutions for
 
-hero_img: posts/Homepage v2.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/Homepage v2.jpg
+hero_img: posts/Homepage v3.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/Homepage v2.jpg
 
 email: timothydoverstreet@gmail.com # email for form submission
 
