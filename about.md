@@ -25,7 +25,7 @@ Some knowledge can be found on a search engine - but what you can't find there i
 
 >“I highly recommend Tim as an expert on worship, sound, technical, and live streaming ministry implementation. He has been a great help to us and he has a fantastic heart and desire to serve churches.” <br><b>- Jeff Miles, Lead Pastor at NorthLake Church (Camas, WA)</b>
 
->"StreetAV really came through on designing our mobile ministry truck/trailer and stage rig, which we are in the beginning stages of ordering. We told them our budget and they exceeded our expectations." <br><b>- Compassion to Action Ministries (Redding, CA)</b>
+>"StreetAV really came through on designing our mobile ministry truck/trailer and stage rig that we are in the beginning stages of purchasing. We told them our budget and they exceeded our expectations." <br><b>- Compassion to Action Ministries (Redding, CA)</b>
 
 >“Tim is extremely knowledgeable in latest trends as well as modern technological advances. His insight is providing viable options for the ever changing media platforms. One of Tim’s greatest strengths is his foresight. He is setting us up in the present with an eye on future sustainability, which allows us to be ready for what is on the horizon. Beyond the knowledge, Tim also marries realistic solutions to that knowledge as his “hands on” experience with set-ups makes for smooth installation.” <br><b>- Adrian Bucur, Lead Pastor at Journey Community Church (Camas, WA)</b>
 
