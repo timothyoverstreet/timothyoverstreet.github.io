@@ -16,7 +16,7 @@ Some knowledge can be found on a search engine - but what you can't find there i
 ![Tim Overstreet - Owner & Founder of streetAV](https://raw.githubusercontent.com/timothyoverstreet/timothyoverstreet.github.io/master/assets/img/posts/Tim%20Overstreet.png "Tim Overstreet")
 
 ***
-# Testimonies:
+# Testimonials:
 
 >“Tim and Ashley are a gift to the church, plain and simple! Their gifts, talents and work ethic without a doubt attributed to the growth of our church. They bring a heart for your house that doesn’t change the DNA of who you are, but helps take it to the next level. If you have the opportunity to connect and partner with StreetAV, I’d suggest you take it!” <br><b>- Jesse Quiroz, Lead Pastor at Journey Church (Troy, MO)</b>
 
