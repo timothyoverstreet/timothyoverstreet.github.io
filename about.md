@@ -13,6 +13,9 @@ Every organization has needs in an area they may not have expertise in. One of y
 
 Some knowledge can be found on a search engine - but what you can't find there is hands-on help and the feeling of community. At Street AV, we want to bridge the denominational divide and help connect people all across the board to the resources they need. Tim and Ashley have a heart for organizations that that are connecting people to the love of Jesus, and would love to team up with you.
 
+[Contact us today](https://www.streetav.com/contact/) to get started!
+
+
 ![Tim Overstreet - Owner & Founder of streetAV](https://raw.githubusercontent.com/timothyoverstreet/timothyoverstreet.github.io/master/assets/img/posts/Tim%20Overstreet.png "Tim Overstreet")
 
 ***
