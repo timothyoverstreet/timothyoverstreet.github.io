@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Whatever your audio/visual needs - please feel free to reach out and we'll see what we can do to help! If you're looking for local support, we will try to connect you with a member of our **street team** of worship pastors across the United States.
+Whatever your audio/visual needs - please feel free to reach out and we'll see what we can do to help! If you're looking for local support, we will try to connect you with a member of our **street team** located across the United States.
 
 ### Contact Form
 
