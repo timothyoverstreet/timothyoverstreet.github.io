@@ -27,9 +27,8 @@ hero_img: posts/Homepage v3.jpg # Main background image: use the path from /asse
 
 email: timothydoverstreet@gmail.com # email for form submission
 
-facebook_username: Tim-Overstreet-121748102557155 # replace with your_twitter_username or comment to remove link from footer
+facebook_username: thestreetavnetwork # replace with your_facebook_username or comment to remove link from footer
 instagram_username: timoverstreet # replace with your_github_username or comment to remove link from footer
-linkedin_username: tim-overstreet-883647186 # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: # to enable comments replace with your_disqus_shortname
